@@ -1,5 +1,12 @@
 @import '~bootstrap/scss/functions';
-@import '~bootstrap/scss/variables';
-@import '~bootstrap/scss/mixins';
 @import './theme/variables';
 @import '~bootstrap/scss/bootstrap';
+@import './theme/fonts';
+@import './theme/base';
+@import './theme/select2';
+@import './theme/validation';
+@import './theme/header';
+@import './theme/hamburger';
+@import './theme/main-page';
+@import './theme/animate-gallery';
+@import './theme/footer';
